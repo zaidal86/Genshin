@@ -29,20 +29,20 @@ bot.on('message', message => {
     if(command === 'status') {
       if(args.length == 1) {
         if(args[0] === 'online') {
-          message.channel.sendMessage('Bot en mode online');
+          message.channel.send('Bot en mode online');
           bot.user.setStatus('online');
         }
       }
       if(args[0] === 'invisible') {
-        message.channel.sendMessage('Bot en mode invisible');
+        message.channel.send('Bot en mode invisible');
         bot.user.setStatus('invisible');
       }
       if(args[0] === 'absent') {
-        message.channel.sendMessage('Bot en mode absent');
+        message.channel.send('Bot en mode absent');
         bot.user.setStatus('idle');
       }
       if(args[0] === 'occupe') {
-        message.channel.sendMessage('Bot en mode occupé');
+        message.channel.send('Bot en mode occupé');
         bot.user.setStatus('dnd');
       }
     }
@@ -54,9 +54,9 @@ bot.on('message', message => {
         .setTitle("Voici les commandes d'aide !")
         .addField('1: Status','Change le status du bot entre invisible,online,absent et occupe')
         .addField('2: GI','Genshin impact')
-        .setTimestamp();
+        .setTimestamp()
 
-      message.channel.sendMessage(help_embed)
+      message.channel.send(help_embed)
     }
 
     if(command === 'gi') {
@@ -76,11 +76,12 @@ bot.on('message', message => {
                 .addField('Défense de base', GI[perso].defend, true)
                 .addField('Arme', GI[perso].weapon, true)
                 .addField('Etoile', GI[perso].stars, true)
-                .setTimestamp();
+                .setTimestamp()
 
-              message.channel.sendMessage(exampleEmbed);
-            } catch { essage.channel.sendMessage('Error'); }
-          } else { message.channel.sendMessage('Manque une info !'); }
+              message.channel.send(exampleEmbed);
+            } catch (error) { message.channel.send('Error: ' + error); }
+          } else { message.channel.send('Manque une info ! 1'); }
+        }
 
           if(args[0] === 'breeding') {
             if(args.length == 2) {
@@ -90,14 +91,13 @@ bot.on('message', message => {
                   .setColor('#0099ff')
                   .setAuthor(GI[perso].name,GI[perso].elements)
                   .setThumbnail(GI[perso].logo)
-                  .addField('yolo',GI[perso].breeding['1']['coins'])
-                  .setTimestamp();
+                  .addField('yolo',GI[perso].breeding[0].comp1[0].coins)
+                  .setTimestamp()
 
-                message.channel.sendMessage(exampleEmbed);
-              } catch { message.channel.sendMessage('Error'); }
-            } else { message.channel.sendMessage('Manque une info !'); }
-          } else { message.channel.sendMessage('Manque une info !'); }
-        }
+                message.channel.send(exampleEmbed);
+              } catch (error) { message.channel.send('Error: ' + error); }
+            } else { message.channel.send('Manque une info ! 2'); }
+          }
       }
     }
   }
