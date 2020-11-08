@@ -1,0 +1,2298 @@
+{
+    "diluc":{
+        "logo": "https://static1-fr.millenium.gg/articles/4/37/22/14/@/1418587-character-diluc-thumb-full-1.png",
+        "name": "Diluc",
+        "desc": "DPS / Pyro",
+        "healt":"1011",
+        "damage":"62",
+        "defend":"61",
+        "weapon":"Claymore",
+        "stars":"* 5",
+        "elements":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Elements/pyro.png",
+        "breeding": [
+            {
+                "comp": [
+                    {
+                        "coins":"20 000",
+                        "level":"20",
+                        "materiel":[
+                            {
+                                "1":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Materiaux/eclat-d-agate-agnidus.png",
+                                "1,1":"1",
+                                "2":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Materiaux/herbe-a-lampe.png",
+                                "2,1":"3",
+                                "3":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Materiaux/insigne-de-nouvelle-recrue.png",
+                                "3,1":"3"
+                            }
+                        ]
+                    }
+                ],
+                "2": [
+                    {
+                        "coins":"40 000",
+                        "level":"40",
+                        "materiel":[
+                            {
+                                "1":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Materiaux/fragment-d-agate-agnidus.png",
+                                "1,1":"3",
+                                "2":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Materiaux/herbe-a-lampe.png",
+                                "2,1":"10",
+                                "3":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Materiaux/insigne-de-nouvelle-recrue.png",
+                                "3,1":"15",
+                                "4":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Materiaux/graine-de-feu.png",
+                                "4,1":"2"
+                            }
+                        ]
+                    }
+                ],
+                "3": [
+                    {
+                        "coins":"60 000",
+                        "level":"50",
+                        "materiel":[
+                            {
+                                "1":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Materiaux/fragment-d-agate-agnidus.png",
+                                "1,1":"6",
+                                "2":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Materiaux/herbe-a-lampe.png",
+                                "2,1":"20",
+                                "3":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Materiaux/insigne-de-sergent.png",
+                                "3,1":"12",
+                                "4":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Materiaux/graine-de-feu.png",
+                                "4,1":"4"
+                            }
+                        ]
+                    }
+                ],
+                "4": [
+                    {
+                        "coins":"80 000",
+                        "level":"60",
+                        "materiel":[
+                            {
+                                "1":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Materiaux/morceau-d-agate-agnidus.png",
+                                "1,1":"3",
+                                "2":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Materiaux/herbe-a-lampe.png",
+                                "2,1":"30",
+                                "3":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Materiaux/insigne-de-sergent.png",
+                                "3,1":"18",
+                                "4":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Materiaux/graine-de-feu.png",
+                                "4,1":"8"
+                            }
+                        ]
+                    }
+                ],
+                "5": [
+                    {
+                        "coins":"100 000",
+                        "level":"70",
+                        "materiel":[
+                            {
+                                "1":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Materiaux/morceau-d-agate-agnidus.png",
+                                "1,1":"6",
+                                "2":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Materiaux/herbe-a-lampe.png",
+                                "2,1":"45",
+                                "3":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Materiaux/insigne-d-officier.png",
+                                "3,1":"12",
+                                "4":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Materiaux/graine-de-feu.png",
+                                "4,1":"12"
+                            }
+                        ]
+                    }
+                ],
+                "6": [
+                    {
+                        "coins":"120 000",
+                        "level":"80",
+                        "materiel":[
+                            {
+                                "1":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Materiaux/pierre-d-agate-agnidus.png",
+                                "1,1":"6",
+                                "2":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Materiaux/herbe-a-lampe.png",
+                                "2,1":"60",
+                                "3":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Materiaux/insigne-d-officier.png",
+                                "3,1":"24",
+                                "4":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Materiaux/graine-de-feu.png",
+                                "4,1":"20"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "spells":[
+            {
+                "1":[
+                    {
+                        "coins":"12500",
+                        "breeding":"2",
+                        "material":[
+                            {
+                                "1":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Materiaux/enseignement-de-la-resistance.png",
+                                "1,1":"3",
+                                "2":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Materiaux/insigne-de-nouvelle-recrue.png",
+                                "2,2":"3"
+                            }
+                        ]
+                    }
+
+                ],
+                "2":[
+                    {
+                        "coins":"17500",
+                        "breeding":"3",
+                        "material":[
+                            {
+                                "1":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Materiaux/guide-de-la-resistance.png",
+                                "1,1":"3",
+                                "2":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Materiaux/insigne-de-sergent.png",
+                                "2,2":"3"
+                            }
+                        ]
+                    }
+                ],
+                "3":[
+                    {
+                        "coins":"25000",
+                        "breeding":"3",
+                        "material":[
+                            {
+                                "1":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Materiaux/guide-de-la-resistance.png",
+                                "1,1":"4",
+                                "2":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Materiaux/insigne-de-sergent.png",
+                                "2,2":"4"
+                            }
+                        ]
+                    }
+                ],
+                "4":[
+                    {
+                        "coins":"30000",
+                        "breeding":"4",
+                        "material":[
+                            {
+                                "1":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Materiaux/guide-de-la-resistance.png",
+                                "1,1":"6",
+                                "2":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Materiaux/insigne-de-sergent.png",
+                                "2,2":"6"
+                            }
+                        ]
+                    }
+                ],
+                "5":[
+                    {
+                        "coins":"37500",
+                        "breeding":"4",
+                        "material":[
+                            {
+                                "1":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Materiaux/guide-de-la-resistance.png",
+                                "1,1":"9",
+                                "2":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Materiaux/insigne-de-sergent.png",
+                                "2,2":"9"
+                            }
+                        ]
+                    }
+                ],
+                "6":[
+                    {
+                        "coins":"120000",
+                        "breeding":"5",
+                        "material":[
+                            {
+                                "1":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Materiaux/philosophie-de-la-resistance.png",
+                                "1,1":"4",
+                                "2":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Materiaux/insigne-d-officier.png",
+                                "2,2":"4",  
+                                "3":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Materiaux/plume-de-stormterror.png",
+                                "3,3":"1"
+                            }
+                        ]
+                    }
+                ],
+                "7":[
+                    {
+                        "coins":"260000",
+                        "breeding":"5",
+                        "material":[
+                            {
+                                "1":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Materiaux/philosophie-de-la-resistance.png",
+                                "1,1":"6",
+                                "2":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Materiaux/insigne-d-officier.png",
+                                "2,2":"6",
+                                "3":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Materiaux/plume-de-stormterror.png",
+                                "3,3":"1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+
+    "venti":{
+        "logo": "https://static1-fr.millenium.gg/articles/4/37/22/14/@/1418591-character-venti-thumb-full-1.png",
+        "name": "Venti",
+        "desc": "Support / Anémo",
+        "healt":"820",
+        "damage":"21",
+        "defend":"52",
+        "weapon":"Arc",
+        "stars":"* 5",
+        "elements":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Elements/anemo.png",
+        "breeding": [
+            {
+                "1": [
+                    {
+                        "coins":"20 000",
+                        "level":"20",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "2": [
+                    {
+                        "coins":"40 000",
+                        "level":"40",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "3": [
+                    {
+                        "coins":"60 000",
+                        "level":"50",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "4": [
+                    {
+                        "coins":"80 000",
+                        "level":"60",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "5": [
+                    {
+                        "coins":"100 000",
+                        "level":"70",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "6": [
+                    {
+                        "coins":"120 000",
+                        "level":"80",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    
+    "sucrose":{
+        "logo": "https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Personnages/Sucrose.png",
+        "name": "Sucrose",
+        "desc": "Support / Anémo",
+        "healt":"775",
+        "damage":"14",
+        "defend":"59",
+        "weapon":"Catalyseur",
+        "stars":"* 4",
+        "elements":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Elements/anemo.png",
+        "breeding": [
+            {
+                "1": [
+                    {
+                        "coins":"20 000",
+                        "level":"20",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "2": [
+                    {
+                        "coins":"40 000",
+                        "level":"40",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "3": [
+                    {
+                        "coins":"60 000",
+                        "level":"50",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "4": [
+                    {
+                        "coins":"80 000",
+                        "level":"60",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "5": [
+                    {
+                        "coins":"100 000",
+                        "level":"70",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "6": [
+                    {
+                        "coins":"120 000",
+                        "level":"80",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    
+    "mona":{
+        "logo": "https://static1-fr.millenium.gg/articles/4/37/22/14/@/1418593-character-mona-thumb-full-1.png",
+        "name": "Mona",
+        "desc": "Support / Hydro",
+        "healt":"810",
+        "damage":"23",
+        "defend":"51",
+        "weapon":"Catalyseur",
+        "stars":"* 5",
+        "elements":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Elements/hydro.png",
+        "breeding": [
+            {
+                "1": [
+                    {
+                        "coins":"20 000",
+                        "level":"20",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "2": [
+                    {
+                        "coins":"40 000",
+                        "level":"40",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "3": [
+                    {
+                        "coins":"60 000",
+                        "level":"50",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "4": [
+                    {
+                        "coins":"80 000",
+                        "level":"60",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "5": [
+                    {
+                        "coins":"100 000",
+                        "level":"70",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "6": [
+                    {
+                        "coins":"120 000",
+                        "level":"80",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    
+    "fischl":{
+        "logo": "https://static1-fr.millenium.gg/articles/4/37/22/14/@/1418589-character-fischl-thumb-full-1.png",
+        "name": "Fischl",
+        "desc": "Support / Electro",
+        "healt":"770",
+        "damage":"21",
+        "defend":"50",
+        "weapon":"Arc",
+        "stars":"* 4",
+        "elements":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Elements/electro.png",
+        "breeding": [
+            {
+                "1": [
+                    {
+                        "coins":"20 000",
+                        "level":"20",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "2": [
+                    {
+                        "coins":"40 000",
+                        "level":"40",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "3": [
+                    {
+                        "coins":"60 000",
+                        "level":"50",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "4": [
+                    {
+                        "coins":"80 000",
+                        "level":"60",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "5": [
+                    {
+                        "coins":"100 000",
+                        "level":"70",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "6": [
+                    {
+                        "coins":"120 000",
+                        "level":"80",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    
+    "barbara":{
+        "logo": "https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Personnages/Barbara.png",
+        "name": "Barbara",
+        "desc": "Soigneur / Hydro",
+        "healt":"821",
+        "damage":"14",
+        "defend":"56",
+        "weapon":"Catalyseur",
+        "stars":"* 4",
+        "elements":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Elements/hydro.png",
+        "breeding": [
+            {
+                "1": [
+                    {
+                        "coins":"20 000",
+                        "level":"20",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "2": [
+                    {
+                        "coins":"40 000",
+                        "level":"40",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "3": [
+                    {
+                        "coins":"60 000",
+                        "level":"50",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "4": [
+                    {
+                        "coins":"80 000",
+                        "level":"60",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "5": [
+                    {
+                        "coins":"100 000",
+                        "level":"70",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "6": [
+                    {
+                        "coins":"120 000",
+                        "level":"80",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    
+    "noelle":{
+        "logo": "https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Personnages/Noelle.png",
+        "name": "Noelle",
+        "desc": "DPS / Géo",
+        "healt":"1 012",
+        "damage":"16",
+        "defend":"67",
+        "weapon":"Claymore",
+        "stars":"* 4",
+        "elements":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Elements/geo.png",
+        "breeding": [
+            {
+                "1": [
+                    {
+                        "coins":"20 000",
+                        "level":"20",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "2": [
+                    {
+                        "coins":"40 000",
+                        "level":"40",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "3": [
+                    {
+                        "coins":"60 000",
+                        "level":"50",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "4": [
+                    {
+                        "coins":"80 000",
+                        "level":"60",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "5": [
+                    {
+                        "coins":"100 000",
+                        "level":"70",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "6": [
+                    {
+                        "coins":"120 000",
+                        "level":"80",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    
+    "jean":{
+        "logo": "https://static1-fr.millenium.gg/articles/4/37/22/14/@/1418595-character-jean-thumb-full-1.png",
+        "name": "Jean",
+        "desc": "Soigneur / Anémo",
+        "healt":"1 144",
+        "damage":"19",
+        "defend":"60",
+        "weapon":"Épée",
+        "stars":"* 5",
+        "elements":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Elements/anemo.png",
+        "breeding": [
+            {
+                "1": [
+                    {
+                        "coins":"20 000",
+                        "level":"20",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "2": [
+                    {
+                        "coins":"40 000",
+                        "level":"40",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "3": [
+                    {
+                        "coins":"60 000",
+                        "level":"50",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "4": [
+                    {
+                        "coins":"80 000",
+                        "level":"60",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "5": [
+                    {
+                        "coins":"100 000",
+                        "level":"70",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "6": [
+                    {
+                        "coins":"120 000",
+                        "level":"80",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    
+    "qiqi":{
+        "logo": "https://static1-fr.millenium.gg/articles/4/37/22/14/@/1418590-character-qiqi-thumb-full-1.png",
+        "name": "Qiqi",
+        "desc": "Soigneur / Cryo",
+        "healt":"963",
+        "damage":"23",
+        "defend":"72",
+        "weapon":"Épée",
+        "stars":"* 4",
+        "elements":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Elements/cryo.png",
+        "breeding": [
+            {
+                "1": [
+                    {
+                        "coins":"20 000",
+                        "level":"20",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "2": [
+                    {
+                        "coins":"40 000",
+                        "level":"40",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "3": [
+                    {
+                        "coins":"60 000",
+                        "level":"50",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "4": [
+                    {
+                        "coins":"80 000",
+                        "level":"60",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "5": [
+                    {
+                        "coins":"100 000",
+                        "level":"70",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "6": [
+                    {
+                        "coins":"120 000",
+                        "level":"80",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    
+    "razor":{
+        "logo": "https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Personnages/Razor.png",
+        "name": "Razor",
+        "desc": "DPS / Electro",
+        "healt":"1 003",
+        "damage":"20",
+        "defend":"63",
+        "weapon":"Claymore",
+        "stars":"* 4",
+        "elements":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Elements/electro.png",
+        "breeding": [
+            {
+                "1": [
+                    {
+                        "coins":"20 000",
+                        "level":"20",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "2": [
+                    {
+                        "coins":"40 000",
+                        "level":"40",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "3": [
+                    {
+                        "coins":"60 000",
+                        "level":"50",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "4": [
+                    {
+                        "coins":"80 000",
+                        "level":"60",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "5": [
+                    {
+                        "coins":"100 000",
+                        "level":"70",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "6": [
+                    {
+                        "coins":"120 000",
+                        "level":"80",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    
+    "keqing":{
+        "logo": "https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Personnages/Keqing.png",
+        "name": "Keqing",
+        "desc": "DPS / Electro",
+        "healt":"1 020",
+        "damage":"48",
+        "defend":"62",
+        "weapon":"Épée",
+        "stars":"* 5",
+        "elements":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Elements/electro.png",
+        "breeding": [
+            {
+                "1": [
+                    {
+                        "coins":"20 000",
+                        "level":"20",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "2": [
+                    {
+                        "coins":"40 000",
+                        "level":"40",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "3": [
+                    {
+                        "coins":"60 000",
+                        "level":"50",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "4": [
+                    {
+                        "coins":"80 000",
+                        "level":"60",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "5": [
+                    {
+                        "coins":"100 000",
+                        "level":"70",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "6": [
+                    {
+                        "coins":"120 000",
+                        "level":"80",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+        
+    "chongyun":{
+        "logo": "https://static1-fr.millenium.gg/articles/4/37/22/14/@/1418596-character-chongyun-thumb-full-1.png",
+        "name": "Chongyun",
+        "desc": "DPS / Cryo",
+        "healt":"1 003",
+        "damage":"19",
+        "defend":"67",
+        "weapon":"Claymore",
+        "stars":"* 4",
+        "elements":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Elements/cryo.png",
+        "breeding": [
+            {
+                "1": [
+                    {
+                        "coins":"20 000",
+                        "level":"20",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "2": [
+                    {
+                        "coins":"40 000",
+                        "level":"40",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "3": [
+                    {
+                        "coins":"60 000",
+                        "level":"50",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "4": [
+                    {
+                        "coins":"80 000",
+                        "level":"60",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "5": [
+                    {
+                        "coins":"100 000",
+                        "level":"70",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "6": [
+                    {
+                        "coins":"120 000",
+                        "level":"80",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+        
+    "xiangling":{
+        "logo": "https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Personnages/Xiangling.png",
+        "name": "Xiangling",
+        "desc": "DPS / Pyro",
+        "healt":"912",
+        "damage":"19",
+        "defend":"56",
+        "weapon":"Arme d’hast",
+        "stars":"* 4",
+        "elements":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Elements/pyro.png",
+        "breeding": [
+            {
+                "1": [
+                    {
+                        "coins":"20 000",
+                        "level":"20",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "2": [
+                    {
+                        "coins":"40 000",
+                        "level":"40",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "3": [
+                    {
+                        "coins":"60 000",
+                        "level":"50",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "4": [
+                    {
+                        "coins":"80 000",
+                        "level":"60",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "5": [
+                    {
+                        "coins":"100 000",
+                        "level":"70",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "6": [
+                    {
+                        "coins":"120 000",
+                        "level":"80",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+        
+    "xiao":{
+        "logo": "https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Personnages/Xiao.png",
+        "name": "Xiao",
+        "desc": "DPS / Anémo",
+        "healt":"?",
+        "damage":"?",
+        "defend":"?",
+        "weapon":"?",
+        "stars":"* ?",
+        "elements":"?",
+        "breeding": [
+            {
+                "1": [
+                    {
+                        "coins":"20 000",
+                        "level":"20",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "2": [
+                    {
+                        "coins":"40 000",
+                        "level":"40",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "3": [
+                    {
+                        "coins":"60 000",
+                        "level":"50",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "4": [
+                    {
+                        "coins":"80 000",
+                        "level":"60",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "5": [
+                    {
+                        "coins":"100 000",
+                        "level":"70",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "6": [
+                    {
+                        "coins":"120 000",
+                        "level":"80",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+        
+    "ningguang":{
+        "logo": "https://static1-fr.millenium.gg/articles/4/37/22/14/@/1418598-character-ningguang-thumb-full-1.png",
+        "name": "Ningguang",
+        "desc": "DPS / Géo",
+        "healt":"821",
+        "damage":"18",
+        "defend":"48",
+        "weapon":"Catalyseur",
+        "stars":"* 4",
+        "elements":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Elements/geo.png",
+        "breeding": [
+            {
+                "1": [
+                    {
+                        "coins":"20 000",
+                        "level":"20",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "2": [
+                    {
+                        "coins":"40 000",
+                        "level":"40",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "3": [
+                    {
+                        "coins":"60 000",
+                        "level":"50",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "4": [
+                    {
+                        "coins":"80 000",
+                        "level":"60",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "5": [
+                    {
+                        "coins":"100 000",
+                        "level":"70",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "6": [
+                    {
+                        "coins":"120 000",
+                        "level":"80",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+        
+    "bennett":{
+        "logo": "https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Personnages/Bennett.png",
+        "name": "Bennett",
+        "desc": "DPS / Pyro",
+        "healt":"1 039",
+        "damage":"16",
+        "defend":"65",
+        "weapon":"Épée",
+        "stars":"* 4",
+        "elements":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Elements/pyro.png",
+        "breeding": [
+            {
+                "1": [
+                    {
+                        "coins":"20 000",
+                        "level":"20",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "2": [
+                    {
+                        "coins":"40 000",
+                        "level":"40",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "3": [
+                    {
+                        "coins":"60 000",
+                        "level":"50",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "4": [
+                    {
+                        "coins":"80 000",
+                        "level":"60",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "5": [
+                    {
+                        "coins":"100 000",
+                        "level":"70",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "6": [
+                    {
+                        "coins":"120 000",
+                        "level":"80",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+        
+    "klee":{
+        "logo": "https://static1-fr.millenium.gg/articles/4/37/22/14/@/1418600-character-klee-thumb-full-1.png",
+        "name": "Klee",
+        "desc": "DPS / Pyro",
+        "healt":"801",
+        "damage":"24",
+        "defend":"48",
+        "weapon":"Catalyseur",
+        "stars":"* 5",
+        "elements":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Elements/pyro.png",
+        "breeding": [
+            {
+                "1": [
+                    {
+                        "coins":"20 000",
+                        "level":"20",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "2": [
+                    {
+                        "coins":"40 000",
+                        "level":"40",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "3": [
+                    {
+                        "coins":"60 000",
+                        "level":"50",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "4": [
+                    {
+                        "coins":"80 000",
+                        "level":"60",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "5": [
+                    {
+                        "coins":"100 000",
+                        "level":"70",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "6": [
+                    {
+                        "coins":"120 000",
+                        "level":"80",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+
+    "kaeya":{
+        "logo": "https://static1-fr.millenium.gg/articles/4/37/22/14/@/1418601-character-kaeya-thumb-full-1.png",
+        "name": "Kaeya",
+        "desc": "Support / Cryo",
+        "healt":"976",
+        "damage":"19",
+        "defend":"66",
+        "weapon":"Épée",
+        "stars":"* 4",
+        "elements":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Elements/cryo.png",
+        "breeding": [
+            {
+                "1": [
+                    {
+                        "coins":"20 000",
+                        "level":"20",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "2": [
+                    {
+                        "coins":"40 000",
+                        "level":"40",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "3": [
+                    {
+                        "coins":"60 000",
+                        "level":"50",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "4": [
+                    {
+                        "coins":"80 000",
+                        "level":"60",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "5": [
+                    {
+                        "coins":"100 000",
+                        "level":"70",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "6": [
+                    {
+                        "coins":"120 000",
+                        "level":"80",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+
+    "beidou":{
+        "logo": "https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Personnages/Beidou.png",
+        "name": "Beidou",
+        "desc": "DPS / Electro",
+        "healt":"1 094",
+        "damage":"19",
+        "defend":"54",
+        "weapon":"Claymore",
+        "stars":"* 4",
+        "elements":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Elements/electro.png",
+        "breeding": [
+            {
+                "1": [
+                    {
+                        "coins":"20 000",
+                        "level":"20",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "2": [
+                    {
+                        "coins":"40 000",
+                        "level":"40",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "3": [
+                    {
+                        "coins":"60 000",
+                        "level":"50",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "4": [
+                    {
+                        "coins":"80 000",
+                        "level":"60",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "5": [
+                    {
+                        "coins":"100 000",
+                        "level":"70",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "6": [
+                    {
+                        "coins":"120 000",
+                        "level":"80",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+
+    "lisa":{
+        "logo": "https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Personnages/Lisa.png",
+        "name": "Lisa",
+        "desc": "Support / Électro",
+        "healt":"802",
+        "damage":"20",
+        "defend":"48",
+        "weapon":"Catalyseur",
+        "stars":"* 4",
+        "elements":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Elements/electro.png",
+        "breeding": [
+            {
+                "1": [
+                    {
+                        "coins":"20 000",
+                        "level":"20",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "2": [
+                    {
+                        "coins":"40 000",
+                        "level":"40",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "3": [
+                    {
+                        "coins":"60 000",
+                        "level":"50",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "4": [
+                    {
+                        "coins":"80 000",
+                        "level":"60",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "5": [
+                    {
+                        "coins":"100 000",
+                        "level":"70",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "6": [
+                    {
+                        "coins":"120 000",
+                        "level":"80",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+
+    "amber":{
+        "logo": "https://static1-fr.millenium.gg/articles/4/37/22/14/@/1418609-character-amber-thumb-full-1.png",
+        "name": "Amber",
+        "desc": "Support / Pyro",
+        "healt":"793",
+        "damage":"19",
+        "defend":"50",
+        "weapon":"Arc",
+        "stars":"* 4",
+        "elements":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Elements/pyro.png",
+        "breeding": [
+            {
+                "1": [
+                    {
+                        "coins":"20 000",
+                        "level":"20",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "2": [
+                    {
+                        "coins":"40 000",
+                        "level":"40",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "3": [
+                    {
+                        "coins":"60 000",
+                        "level":"50",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "4": [
+                    {
+                        "coins":"80 000",
+                        "level":"60",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "5": [
+                    {
+                        "coins":"100 000",
+                        "level":"70",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "6": [
+                    {
+                        "coins":"120 000",
+                        "level":"80",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+
+    "voyageur":{
+        "logo": "https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Vignettes/Personnages/vignette-genshin-impact-voyageur-anemo-build-equipement-comment-jouer-corrige.jpg",
+        "name": "Voyageur",
+        "desc": "DPS /Anémo ou Géo",
+        "healt":"912",
+        "damage":"18",
+        "defend":"57",
+        "weapon":"Épée",
+        "stars":"* 5",
+        "elements":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Elements/anemo.png",
+        "breeding": [
+            {
+                "1": [
+                    {
+                        "coins":"20 000",
+                        "level":"20",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "2": [
+                    {
+                        "coins":"40 000",
+                        "level":"40",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "3": [
+                    {
+                        "coins":"60 000",
+                        "level":"50",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "4": [
+                    {
+                        "coins":"80 000",
+                        "level":"60",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "5": [
+                    {
+                        "coins":"100 000",
+                        "level":"70",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "6": [
+                    {
+                        "coins":"120 000",
+                        "level":"80",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+
+    "Xingqiu":{
+        "logo": "https://static1-fr.millenium.gg/articles/4/37/22/14/@/1418604-1418607-character-xingqiu-thumb-64x64-1-full-2.png",
+        "name": "Xiangqiu",
+        "desc": "Support / Hydro",
+        "healt":"857",
+        "damage":"17",
+        "defend":"64",
+        "weapon":"Épée",
+        "stars":"* 4",
+        "elements":"https://www.gamosaurus.com/wp-content/uploads/Independant/Genshin-Impact/Images/Elements/hydro.png",
+        "breeding": [
+            {
+                "1": [
+                    {
+                        "coins":"20 000",
+                        "level":"20",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "2": [
+                    {
+                        "coins":"40 000",
+                        "level":"40",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "3": [
+                    {
+                        "coins":"60 000",
+                        "level":"50",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "4": [
+                    {
+                        "coins":"80 000",
+                        "level":"60",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "5": [
+                    {
+                        "coins":"100 000",
+                        "level":"70",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ],
+                "6": [
+                    {
+                        "coins":"120 000",
+                        "level":"80",
+                        "materiel":[
+                            {
+                                "1":"",
+                                "2":"",
+                                "3":""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
