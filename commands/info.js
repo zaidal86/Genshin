@@ -1,5 +1,5 @@
 const { MessageEmbed } = require('discord.js');
-const gi = require('../gi.json')
+const gi = require('../gi.json');
 
 module.exports = {
 	name: 'info',
