@@ -9,7 +9,7 @@ module.exports = {
 
 		for (const file of commandFiles) {
 			const command = require(`./${file}`);
-			str += `!gi ${command.name}, Description: ${command.description} \n`;
+			str += `!gi ${command.name} : ${command.description} \n`;
 		}
 
 		return message.channel.send(str);
